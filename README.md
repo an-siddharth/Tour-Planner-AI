@@ -17,3 +17,7 @@ You can describe the trip you want in normal language and it generates a travel 
 ## Tech Stack
 
 Python, FastAPI, LangGraph, Groq, PostgreSQL, Tavily, AviationStack, HTML, CSS and JavaScript.
+
+##Demo
+
+https://github.com/an-siddharth/Tour-Planner-AI/issues/1#issue-5691224724
