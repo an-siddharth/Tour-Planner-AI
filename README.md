@@ -1,6 +1,6 @@
-# TripMate AI
+# Tour Planner AI
 
-TripMate AI is an AI travel planner built with Python, FastAPI, LangGraph and Groq.
+Tour Planner AI is an AI travel planner built with Python, FastAPI, LangGraph and Groq.
 
 You can describe the trip you want in normal language and it generates a travel plan with flights, hotels, sightseeing and a day-by-day itinerary.
 
